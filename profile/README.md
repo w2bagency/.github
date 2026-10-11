@@ -6,6 +6,10 @@ Remote-first, bilingual (EN/ES) digital agency. We build fast websites, make the
 - **High-Performance Web Development**: Astro, React, WordPress and headless.
 - **Workflow Automation & AI Agents**: n8n, Make, trigger.dev and LLM agents.
 
+## Products
+
+**[Vetrelle](https://vetrelle.com)**: your own store to sell on Instagram and TikTok. A catalog with sizes, colors and stock, and every order arrives on WhatsApp with the delivery address. No commission per sale.
+
 ## Open source
 
 | Package | What it does |
@@ -17,6 +21,6 @@ Both are Apache-2.0.
 
 ---
 
-**ES** · Agencia digital remota y bilingüe. Hacemos sitios rápidos, los posicionamos en buscadores y en respuestas de IA, y automatizamos el trabajo alrededor de ellos.
+**ES** · Agencia digital remota y bilingüe. Hacemos sitios rápidos, los posicionamos en buscadores y en respuestas de IA, y automatizamos el trabajo alrededor de ellos. Nuestro producto: [Vetrelle](https://vetrelle.com), tu tienda propia para vender por Instagram y TikTok, con los pedidos por WhatsApp.
 
 [w2bagency.com](https://w2bagency.com) · [LinkedIn](https://www.linkedin.com/company/w2bagency-technology-solutions/)
